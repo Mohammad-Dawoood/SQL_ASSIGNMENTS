@@ -1,0 +1,2 @@
+# SQL_ASSIGNMENTS
+A Data Scientist needs SQL in order to handle structured data. This structured data is stored in relational databases. Therefore, in order to query these databases, a data scientist must have a sound knowledge of SQL.   We are guided by Ayushman Dehingia sir and he is a great Teacher. After teaching us for more than 2 weeks, Board Infinity gave us Two assignments to complete before the deadline.     I worked restlessly to complete these assignments. I hope you will love this.
